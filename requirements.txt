@@ -1,0 +1,11 @@
+h5py==3.10.0
+matplotlib==3.8.1
+numpy==1.26.1
+pandas==2.1.2
+tqdm==4.66.1
+scipy==1.11.3
+torch==2.0.0 
+torchvision==0.15.1
+lightning==2.1.1
+pytorch-lightning===2.1.0
+kornia==0.7.0
